@@ -20,7 +20,7 @@
 
     
 
-  - radixSort의 매 단계의 정렬은 stable해야함 : counting sort 이용해도 됨.
+  - radixSort의 매 단계의 정렬은 stable해야함
 
   - pseudocode
 
@@ -35,7 +35,7 @@
 
   - 시간복잡도
 
-    - O(d(n+k))  : counting sort 사용 경우
+    - O(d(n+k)) 
 
     - k가 클 경우 비실용적
 
