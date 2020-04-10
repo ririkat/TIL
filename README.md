@@ -5,7 +5,7 @@ Today I Learned
 
 ### Algorithm
 
-- [Recursion - 재귀](https://github.com/ririkat/TIL/tree/master/Algorithm/Recursion-재귀 알고리즘)
+- [Recursion - 재귀](https://github.com/ririkat/TIL/tree/master/Algorithm/Recursion-재귀%20알고리즘)
 - Sorting - 정렬
   - [**EfficientSort**]()
     - [MergeSort-합병정렬](#Merge Sort (합병정렬))
