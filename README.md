@@ -8,7 +8,7 @@ Today I Learned
 - [Recursion - 재귀](https://github.com/ririkat/TIL/tree/master/Algorithm/Recursion-재귀%20알고리즘)
 - Sorting - 정렬
   - [**EfficientSort**]()
-    - [MergeSort-합병정렬](#Merge Sort (합병정렬))
+    - [MergeSort-합병정렬](# MergeSort(합병정렬))
     - [QuickSort-빠른정렬](#Quick Sort (빠른정렬))
   - **InefficientSort**
     - [BubbleSort-버블정렬](Bubble Sort (버블정렬))
