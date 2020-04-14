@@ -11,6 +11,6 @@ Today I Learned
 - [Hashing](https://github.com/ririkat/TIL/tree/master/Algorithm/[4]Hashing)
 ### SQLD
 
-- [데이터모델링](https://github.com/ririkat/TIL/tree/master/SQLD/DataModeling)
+- [데이터모델링](https://github.com/ririkat/TIL/tree/master/SQLD/[1]DataModeling)
 - [SQL기본및활용](https://github.com/ririkat/TIL/tree/master/SQLD/[2]SQL기본및활용)
 
